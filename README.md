@@ -18,4 +18,4 @@ Things I am using
 
 ## License
 
-Use is licensed under [MIT License](LICENSE).
+Use is licensed under [Apache-2.0 License](LICENSE).
