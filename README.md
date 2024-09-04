@@ -11,6 +11,7 @@ Things I am using
   - [ ] [**(not always use) Sony WF-1000XM4, Silver**](https://www.amazon.ca/gp/product/B094CLC7WK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&th=1)
 - Monitor stand: [**FITUEYES Computer Monitor Stand 16.7 inch 2 Tiers, Oak**](https://www.amazon.ca/gp/product/B0836JHNCF/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&th=1)
 - Chair: [**Sytas Ergonomic Home Office Chair, White**](https://www.amazon.ca/gp/product/B09BKWR3J5/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1)
+- Phone: iPhone 11 Pro 256GB Storage
 - **(not mine)** Desk: [**BEKANT, Black Stained Ash Veneer/White, 160x80 cm (63x31 1/2 ")**](https://www.ikea.com/ca/en/p/bekant-desk-black-stained-ash-veneer-white-s59282682/#content)
 - **(use frequency depending)** Mouse: Logitech MX Master 3, Gray
 - **(using when laptop is charging, not always use)** Monitor: [**GIGABYTE G27Q 27" Gaming Monitor**](https://www.gigabyte.com/Monitor/G27Q#kf)
