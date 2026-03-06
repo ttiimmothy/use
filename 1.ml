@@ -9,11 +9,6 @@ let var ~ctxt name =
   Loc.make ~loc name
 ;;
 
-(* [gensym ()] creates a new symbol generator that always starts at 0. It is convenient
-   for when you need to iterate and name variables several times.
-
-   If you need a global counter that won't restart, you can rebind `gensym` to `gensym ()`
-*)
 let gensym () =
   let counter = ref 0 in
   fun ~ctxt ->
@@ -48,12 +43,6 @@ let is_primitive = function
   | _ -> false
 ;;
 
-(** [deserializer_for_type] creates a call to a deserializer based on a type.
-
-    When type is a constructor (or [Ptyp_constr], which is OCaml for "any type name"),
-    we will look at the number of arguments it has and 
-
-*)
 let rec deserializer_for_type ~ctxt (core_type : Parsetree.core_type) =
   let loc = loc ~ctxt in
   match core_type.ptyp_desc with
